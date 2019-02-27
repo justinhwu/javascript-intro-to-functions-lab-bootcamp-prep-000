@@ -10,7 +10,7 @@ function logShout(sting){
   console.log(spy.toUpperCase())
 }
 
-function sayHiToGrandma(){
-  
+function sayHiToGrandma(string){
+  if string ===
 }
 
